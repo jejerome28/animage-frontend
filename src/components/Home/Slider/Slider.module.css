@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    border: solid 2px aqua;
+    width: 100vh;
+    margin-bottom: 3em;
+    overflow: auto;
+}
+
+.title {
+    margin-bottom: 2em;
+}
